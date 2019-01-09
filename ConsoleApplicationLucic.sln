@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{29FF7AA3-21DB-4FCC-B30A-69F70C65E88C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlazaerCalc", "GlazaerCalc\GlazaerCalc.csproj", "{87A2006C-D46C-4A80-9E1B-1D2AB73CA8DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlazerCalc", "GlazerCalc\GlazerCalc.csproj", "{87A2006C-D46C-4A80-9E1B-1D2AB73CA8DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
