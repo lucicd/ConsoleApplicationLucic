@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationLucic", "ConsoleApplicationLucic\ConsoleApplicationLucic.csproj", "{29FF7AA3-21DB-4FCC-B30A-69F70C65E88C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{29FF7AA3-21DB-4FCC-B30A-69F70C65E88C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlazaerCalc", "GlazaerCalc\GlazaerCalc.csproj", "{87A2006C-D46C-4A80-9E1B-1D2AB73CA8DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{29FF7AA3-21DB-4FCC-B30A-69F70C65E88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29FF7AA3-21DB-4FCC-B30A-69F70C65E88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29FF7AA3-21DB-4FCC-B30A-69F70C65E88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A2006C-D46C-4A80-9E1B-1D2AB73CA8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A2006C-D46C-4A80-9E1B-1D2AB73CA8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A2006C-D46C-4A80-9E1B-1D2AB73CA8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A2006C-D46C-4A80-9E1B-1D2AB73CA8DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
